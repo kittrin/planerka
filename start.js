@@ -13,7 +13,7 @@ const msgText = {
 
 
 const admin1 = 865390883;
-const admin2 = 2147483647;
+const admin2 = 5799806003;
 const admin3 = 433526068;
 
 
